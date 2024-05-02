@@ -1,4 +1,3 @@
-anaconda-anon-usage==0.4.2
 anaconda-catalogs==0.2.0
 anaconda-cloud-auth==0.1.3
 anaconda-navigator==2.5.0
